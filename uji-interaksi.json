@@ -1,0 +1,38 @@
+[
+  {
+    "page": "index",
+    "controls": 41,
+    "hit_test_failures": [],
+    "real_svg_loaded": false
+  },
+  {
+    "page": "tentang-kami",
+    "controls": 19,
+    "hit_test_failures": [],
+    "real_svg_loaded": false
+  },
+  {
+    "page": "produk",
+    "controls": 33,
+    "hit_test_failures": [],
+    "real_svg_loaded": false
+  },
+  {
+    "page": "detail-produk",
+    "controls": 45,
+    "hit_test_failures": [],
+    "real_svg_loaded": false
+  },
+  {
+    "page": "material",
+    "controls": 25,
+    "hit_test_failures": [],
+    "real_svg_loaded": false
+  },
+  {
+    "page": "kontak",
+    "controls": 29,
+    "hit_test_failures": [],
+    "real_svg_loaded": true
+  }
+]
